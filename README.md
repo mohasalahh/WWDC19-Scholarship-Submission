@@ -1,4 +1,4 @@
-# Mohamed Salah WWDC19-Scholarship-Submission
+# Mohamed Salah WWDC19-Scholarship-Submission[Accepted]
 Weather Prediction Using CoreML Playground.  
 This playground can predict weather in 5 cities around the world at any date without any internet access.
 
