@@ -11,4 +11,4 @@ CoreML
 CoreGraphics
 UIKit
 
-Demo Video: https://www.youtube.com/watch?v=bH9FwLSS1LA
+[Demo Video on Youtube](https://www.youtube.com/watch?v=bH9FwLSS1LA&list=PLRg_ppvslSwr6rucF7IDsiW8nNE2zzJ76)
